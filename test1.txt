@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F4F6-773C
+
+ Directory of C:\Users\91983\Desktop\GoPro1
+
+06/15/2020  07:20 PM    <DIR>          .
+06/15/2020  07:20 PM    <DIR>          ..
+06/15/2020  07:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  62,072,590,336 bytes free
